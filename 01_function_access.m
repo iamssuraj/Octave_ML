@@ -1,2 +1,0 @@
-fibonacci(10)
-
