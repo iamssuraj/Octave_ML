@@ -5,6 +5,6 @@
 %range can be stored in a variable also
 indices = 1:10;
 for i = indices,
-  disp(i^2);
-  end;
-
+  a(i) = i^2;
+end;
+plot(a)
