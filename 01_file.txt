@@ -1,0 +1,21 @@
+# Created by Octave 7.1.0, Thu Apr 14 12:54:07 2022 GMT <unknown@DESKTOP-GC3M7F0>
+# name: a
+# type: scalar
+1
+
+
+# name: b
+# type: matrix
+# rows: 1
+# columns: 2
+ 2 3
+
+
+# name: matrix1
+# type: matrix
+# rows: 2
+# columns: 4
+ 1 2 3 4
+ 5 6 7 8
+
+
